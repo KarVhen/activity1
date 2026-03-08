@@ -236,14 +236,13 @@ text-align:justify;
 
 /* FOOTER */
 
-footer{
-
-margin-top:60px;
-
-margin-bottom:30px;
-
-color:#888;
-
+/* FOOTER */
+footer {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    color: #888;
+    width: 100%; /* Sinisiguro na sakop ang buong lapad para gumana ang centering */
+    text-align: center;
 }
 
 
@@ -258,3 +257,4 @@ grid-template-columns:1fr;
 }
 
 }
+
